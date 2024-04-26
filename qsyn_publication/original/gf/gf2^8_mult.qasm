@@ -1,1 +1,1 @@
-../../vendor/pyzx/circuits/qasm/gf2^8_mult.qasm
+../../../vendor/pyzx/circuits/qasm/gf2^8_mult.qasm
